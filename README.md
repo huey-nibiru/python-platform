@@ -1,2 +1,2 @@
 # python-platform
-Python year Curriculum TCSS 
+Tcss Python year curriculum 
