@@ -30,3 +30,19 @@ average = sum(numbers) / len(numbers)
 # display the outcome
 print("\nNumbers:", numbers)
 print("Average:", average)
+
+
+'''  
+CONCEPTS
+  - lists 
+  - while loops
+  - variables
+  - input
+  - built in functions
+  - try/except
+  - if statements
+
+
+HOMEWORK
+  - change the while loop to a for loop that takes in only 10 numbers
+'''
