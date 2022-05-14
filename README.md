@@ -2,4 +2,6 @@
 
 TCSS python platform lesson plan
 
-## Variables
+## Key Concepts
+
+### Variables
