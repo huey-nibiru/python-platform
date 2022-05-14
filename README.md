@@ -73,7 +73,7 @@ TCSS python platform lesson plan
 - open/close method
 - with statements
 
-# Error handling
+### Error handling
 
 - what is syntax?
 - syntax errors vs logical errors
