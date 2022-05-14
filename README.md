@@ -19,7 +19,7 @@ TCSS python platform lesson plan
 - Indentation
 - Comments
 - Print statements
-- Operators (\*, /, +, -)
+- Operators (\*\*, %, //, /, \*, -, +)
 
 ### Variables
 
