@@ -12,12 +12,14 @@ TCSS python platform lesson plan
 - How different languages are used
 - What is python? what is it used for?
 
-### Python Syntax
+### Basics
 
 - What is syntax?
 - Syntax errors vs logical errors
 - Indentation
+- Comments
 - Print statements
+- Operators (\*, /, +, -)
 
 ### Variables
 
@@ -27,3 +29,8 @@ TCSS python platform lesson plan
 - Printing variables
 
 ### Data Types
+
+- Strings
+- Integers
+- Float
+- Boolean
