@@ -2,7 +2,7 @@
 
 TCSS python platform lesson plan
 
-## Key Concepts
+## Overview
 
 ### Introduction
 
