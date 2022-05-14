@@ -4,6 +4,7 @@ TCSS python platform lesson plan
 
 ## Overview
 
+
 ### Introduction
 
 - what is the purpose of programming?
