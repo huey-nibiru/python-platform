@@ -1,2 +1,5 @@
 # Python-Platform
-Tcss python platform year curriculum 
+
+TCSS python platform lesson plan
+
+## Variables
