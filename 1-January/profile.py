@@ -1,22 +1,19 @@
-print("This is my self profile")
-gender = "male" # This is a string data type
+# create a variable that holds information for a person. [review data types with class]
 name = "yousef"
 age = 26 #this is an integer data type
-interests = ["skateboarding","music", "cars", "video games"]
+hobbies = ["skateboarding","music", "cars", "video games"]
 
-# a function is a series of 
-# commands that come together 
-# to make one command
 
-# first define the function 
-def self_profile(g,n,a,i):
+# create a function that takes in three parameters for the name, age, and interests [review parameters]
+def self_profile(n,a,h):
   print("My name is " + n)
-  print("I am a " + g)
   print("I am " + str(a) + " years old")
-  print("MY interests include")
-  for interests in i:
-    print(interests)
+
+  # briefly go over the join() method
+  print("My hobbies include: " + ", ".join(h))
   
-# now we call the function
-self_profile(gender,name,age,interests)
+  
+# now we call the function to output the results
+self_profile(name,age,hobbies)
+
   
