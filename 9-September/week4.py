@@ -25,6 +25,7 @@ row = []
 garden = []
 
 
+# while loops are used to run the whole game
 while True:
     os.system("clear")
     print("...TREE GARDEN...")

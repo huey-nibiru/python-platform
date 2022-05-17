@@ -2,13 +2,11 @@
 # with computers to tell them what to do
 
 # comments are notes in code
-# print statements are how we output
-# things to the screen
-print("hey this is my first day")
+# print statements are how we display info to the screen
+print("Hello world! this is my first day coding!")
 
 
-# variables are how we keep track of
-# information
+# variables are how we keep track of information
 game = "Roblox"
 
 # we can print variables together with
