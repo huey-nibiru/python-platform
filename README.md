@@ -5,7 +5,7 @@ TCSS python platform lesson plan
 ## Overview
 
 
-### Introduction
+### Introduction (Recurring Talking points)
 
 - what is the purpose of programming?
 - how is programming used in our daily lives?
