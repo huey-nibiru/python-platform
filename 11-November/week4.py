@@ -27,14 +27,14 @@ def draw(n, x, d):
         # choosing random integers 
         # between 0 and 255
         # to generate random rgb values 
-        a = random.randint(0, 255)
+        r = random.randint(0, 255)
+        g = random.randint(0, 255)
         b = random.randint(0, 255)
-        c = random.randint(0, 255)
           
         # setting the outline 
-        # and fill colour
-        pen.color(a, b, c)
-        pen.fillcolor(a, b, c)
+        # and fill color
+        pen.color(r,g,b)
+        pen.fillcolor(r,g,b)
           
         # begins filling the star
         pen.begin_fill()
