@@ -3,6 +3,7 @@ name = "Sams Smoothies"
 
 print("Welcome to " + name)
 
+
 # MAKE A MENU DICTIONARY
 menu = { }
 menu["Banana Sherbert"] = 10
