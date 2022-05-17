@@ -1,4 +1,6 @@
-# Tree Garden
+# TREE GARDEN GAME
+
+
 # spell a word correctly to plant a tree. 
 # if you spell a word wrong, you lose
 # if it takes you more than 3 seconds to type the word you lose

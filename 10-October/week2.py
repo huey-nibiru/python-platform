@@ -1,3 +1,6 @@
+# USER PROFILE
+
+
 # allows us to use random numbers and random choice
 import random
 

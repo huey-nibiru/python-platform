@@ -1,4 +1,11 @@
-import time, os 
+# CALCULATOR
+
+
+# allows us to clear the screen 
+import os
+
+# allows us to pause the screen
+import time
 
 
 # create a function that lets the computer clear screen after an amount of seconds (discuss parameters)

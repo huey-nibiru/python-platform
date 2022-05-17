@@ -1,4 +1,5 @@
-# USING LISTS (with fruit example)
+# LISTS AND LIST METHODS
+
 
 # a list is a data type that holds multiple values 
 print("1. Create a list of basket.")

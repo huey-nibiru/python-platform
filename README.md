@@ -53,9 +53,8 @@ TCSS python platform lesson plan
 - paramenters
 - return statements
 
-### Lists & Tuples
+### Lists 
 
-- difference between list & tuple
 - defining a list
 - accessing list elements
 - list methods
