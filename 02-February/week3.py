@@ -60,6 +60,7 @@ def generate_id(f,l,j,a):
   print("ADDRESS: " + adr)
 
 
+
 os.system("clear")
 generate_id(fnames,lnames,jobs,addresses)
 
