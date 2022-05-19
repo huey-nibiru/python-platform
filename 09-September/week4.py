@@ -30,8 +30,7 @@ garden = []
 # while loops are used to run the whole game
 while True:
     os.system("clear")
-    print("...TREE GARDEN...")
-
+    
     # display the garden. (rows must be full)
     for each_row in garden:
         print(" ".join(each_row))
