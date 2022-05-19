@@ -47,7 +47,7 @@ while True:
   show_menu()
   
   # choose a flavor
-  choice = input("\nSelect a flavor:")
+  choice = input("\nSelect a flavor (type 'quit' to stop) :")
   
   # verify if the choice is in the menu, add item to cart
   if choice in menu:
@@ -61,7 +61,7 @@ while True:
     os.system("clear")
     print("....RECIEPT......")
     for item in cart:
-      print(item)
+      print(">",item)
       
     # display the total
     print("Your total is $" + str(total))

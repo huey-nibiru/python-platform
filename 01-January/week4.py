@@ -1,3 +1,5 @@
+# ANIMAL QUIZ
+
 def check_guess(guess, answer):
     global score
     still_guessing = True
@@ -19,7 +21,7 @@ print("Guess the Animal")
 guess1 = input("Which bear lives at the North Pole? ")
 check_guess(guess1, "polar bear")
 guess2 = input("Which is the fastest land animal? ")
-check_guess(guess2, "Cheetah")
+check_guess(guess2, "cheetah")
 guess3 = input("Which is the larget animal? ")
-check_guess(guess3, "Blue Whale")
+check_guess(guess3, "blue whale")
 print("Your Score is "+ str(score))
