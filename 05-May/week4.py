@@ -1,10 +1,10 @@
 # Connect Four
-
 # Challenge --> Add logic to detect a full row *
 
-from turtle import *
 
+from turtle import *
 from freegames import line
+
 
 turns = {'red': 'yellow', 'yellow': 'red'}
 state = {'player': 'yellow', 'rows': [0] * 8}

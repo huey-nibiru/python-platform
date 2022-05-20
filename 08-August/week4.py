@@ -1,6 +1,6 @@
 """
 
-Pong
+PONG
 
 HOMEWORK CHALLENGES (Choose at least one)
 1. Change the colors.
