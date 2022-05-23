@@ -1,8 +1,13 @@
 # Python-Platform
 
-##### The goal of each code class is to get as many students as possible to move up into either a 2:1/1:1 scratch, or python. Each lesson has a well-rounded array of concepts. The concepts and homework are pre-made inside the google sheet provided. Please refer to THIS GOOGLE SHEET to access all code class lessons. Please follow the directions above (also contained in the google sheet) to optimize the lesson plan.
+## Preface
 
-## Overview
+- The goal of python platform is to get as many students as possible to move up into either 2:1 or 1:1 code coaching.
+- Before beginning your lesson, review the code and understand how the program works and the concepts used.
+- DO NOT teach a class without looking over the code.
+- Homework MUST be included in the notes for each lesson.
+
+## CONCEPTS
 
 ### Introduction (Recurring Talking points)
 
