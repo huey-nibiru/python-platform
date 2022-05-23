@@ -3,7 +3,7 @@
 ## Preface
 
 - The goal of python platform is to get as many students as possible to move up into either 2:1 or 1:1 code coaching.
-- Before beginning your lesson, review the code and understand how the program works and the concepts used.
+- Review the code and understand how the program works at least one day prior to your lesson.
 - DO NOT teach a class without looking over the code.
 - Homework MUST be included in the notes for each lesson.
 
