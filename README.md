@@ -6,9 +6,9 @@
 - Review the code and understand how the program works AT LEAST one day prior to your lesson.
 - DO NOT teach a class without looking over the code.
 - Homework MUST be included in the notes for each lesson.
-- Discuss What each line of code is responsible for and how they interact with each other
+- Discuss What each line of code is responsible for and how they interact with each other.
 - Use these completed programs as a reference as you re-create them with your class in replit.
-- Copying comments is optional for students, but include them in your lesson
+- Copying comments is optional for students, but include them in your lesson.
 - Students who can type fast should copy comments.
 - Unexperienced typers do not need to copy comments.
 - If there are any students who do not complete the lesson, please copy the complete code to your replit and share with the students via replit invite.
