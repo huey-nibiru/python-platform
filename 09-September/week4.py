@@ -19,14 +19,12 @@ import os
 import time
 
 
-# create a wordbank and use emojies for the trees 
+# create game assets 
 wordbank = [""]
 tree = "🌲"
-
-
-# create a list for each row and the garden
 row = []
 garden = []
+time_limit = 5
 
 
 # while loops are used to run the whole game
@@ -35,7 +33,7 @@ while True:
     
     # display the garden. (rows must be full)
     for each_row in garden:
-        print(" ".join(each_row))
+        print(each_row)
     
     # start the timer for entry
     start = time.time()
@@ -43,18 +41,12 @@ while True:
     print("Type the word", word)
     entry = input(">>>")
     end = time.time()
-    time_limit = int(end - start)
+    elapsed = int(end - start)
 
     # set the time limit to five seconds
     # if the user spells the word wrong, end program
-    if time_limit > 5:
-        print("YOU LOSE")
-        break
-    
-    # wrong spelling
-    elif word != entry:
-        print("YOU LOSE")
-        break
+    if (elapsed > time_limit) or (word != entry):
+        print("GAME OVER"); break
     
     # add new tree to garden
     else:

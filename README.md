@@ -1,9 +1,8 @@
 # Python-Platform
 
-TCSS python platform lesson plan
+##### The goal of each code class is to get as many students as possible to move up into either a 2:1/1:1 scratch, or python. Each lesson has a well-rounded array of concepts. The concepts and homework are pre-made inside the google sheet provided. Please refer to THIS GOOGLE SHEET to access all code class lessons. Please follow the directions above (also contained in the google sheet) to optimize the lesson plan.
 
 ## Overview
-
 
 ### Introduction (Recurring Talking points)
 
@@ -53,7 +52,7 @@ TCSS python platform lesson plan
 - paramenters
 - return statements
 
-### Lists 
+### Lists
 
 - defining a list
 - accessing list elements
