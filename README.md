@@ -30,7 +30,8 @@
 - what are variables?
 - naming variables
 - the purpose of variables
-- printing variables
+- printing variables/string concatenation
+
 - input
 
 ### Data Types
@@ -39,11 +40,6 @@
 - integer
 - float
 - boolean
-
-### Formatting
-
-- string concatenation
-- f strings
 
 ### Control Flow
 
