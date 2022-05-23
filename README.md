@@ -12,7 +12,7 @@
 - Students who can type fast should copy comments.
 - Unexperienced typers do not need to copy comments.
 - If there are any students who do not complete the lesson, please copy the complete code to your replit and share with the students via replit invite.
-- [Towards the end of each lesson fill out this [Code Class Feeback google](https://www.google.com) form along with your notes]
+- [Towards the end of each lesson fill out this [Code Class Feeback google](https://forms.gle/QdBDxM54cP35d1Mz5) form along with your notes]
 
 ## CONCEPTS
 
