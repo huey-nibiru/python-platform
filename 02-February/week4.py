@@ -1,6 +1,11 @@
-# TEST GRADE AVERAGES
+"""
+Project Name: TEST GRADE AVERAGES
+Concepts: conditions, variables, lists, functions, loops
+Homework: change numTests to be a randomly generated number between 3 and 10
+"""
 
 
+# each if statement is similar. copy paste to save time.
 
 # return the leter grades of each student
 def grade_converter(grade): 
@@ -15,6 +20,7 @@ def grade_converter(grade):
   else: 
     return "F"
 
+
 # return the average score 
 def averageScore(testScores):
   mysum = 0 # set the variable to 0 so it doesnt interfere
@@ -27,17 +33,19 @@ def averageScore(testScores):
 # holds the list of test grades
 tests = [ ]
 
+
 # create a counter for each test: *test #1*
 x = 1
 
-print("It is time to grade the exams")
+
+# run the program
 numTests = int(input("How many test Scores? "))
 for i in range(numTests):
     
     # input test scores
     y = int(input("Test score " + str(x) + ":" )) 
     tests.append(y)
-    print (str(grade_converter(y))
+    print(str(grade_converter(y)))
     
     # update counter
     x+=1

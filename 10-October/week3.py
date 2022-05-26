@@ -1,4 +1,9 @@
-# CALCULATOR
+"""
+Project Name: CALCULATOR
+Concepts: variables, loops, functions, parameters, operators
+Homework: add an exponent option
+"""
+
 
 
 # allows us to clear the screen 

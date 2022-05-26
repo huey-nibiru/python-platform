@@ -1,4 +1,9 @@
-# DICTIONARIES REVIEW
+"""
+Project Name: PERSON PROFILE 
+Concepts: os lib, dictionaries, variables
+Homework: add more categories to the person and display each in a sentence
+"""
+
 
 import os
 
@@ -6,28 +11,28 @@ import os
 # dictionaries often represent an object
 
 # how to create a dictionary 
-employee = {}
+person = {}
 
 # add data to your dictionary
-employee["name"] = "Daniel"
-employee["job"] = "Fashion Designer"
-employee["company"] = "Nike"
+person["name"] = "Daniel"
+person["job"] = "Fashion Designer"
+person["company"] = "Nike"
 
 # print the full dictionary
-print(employee)
+print(person)
 
 # clear the screen
 input("\nPRESS ENTER")
 os.system("clear")
 
 # how to access a variable from your dictionary
-print("Hello my name is", employee["name"])
-print("I am a", employee["job"])
-print("I work for", employee["company"])
+print("Hello my name is", person["name"])
+print("I am a", person["job"])
+print("I work for", person["company"])
 
 # change a value 
-employee["name"] = "Danny"
-print("you can just call me", employee["name"])
+person["name"] = "Danny"
+print("you can just call me", person["name"])
 
 
 

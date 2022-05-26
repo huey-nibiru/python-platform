@@ -1,4 +1,9 @@
-# NOTES APP
+"""
+Project Name: NOTES APP 
+Concepts: dictionaries, loops, variables, functions, file io
+Homework: make the app capable of deleting notes (delete all notes)
+"""
+
 
 
 # you can select only the system method from the os library

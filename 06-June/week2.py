@@ -1,5 +1,8 @@
-# ANIMAL SHELTER
-
+"""
+Project Name: ANIMAL SHELTER
+Concepts: variables, dictionaries, conditions
+Homework: add more animals 
+"""
 import os
 import time
 
@@ -53,6 +56,7 @@ while True:
     if choice == "1":
     
         # loop through the shelter variable
+        # use copy and paste to save time
         for animal in shelter:
             print("Name:",animal["name"])
             print("Age:",animal["age"])

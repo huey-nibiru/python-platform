@@ -1,5 +1,9 @@
-# FOOD STORE 
 
+"""
+Project Name: FOOD STORE 
+Concepts: time lib, os lib, dictionaries, file io, loops
+Homework: add more items to the menu
+"""
 import time, os
 
 

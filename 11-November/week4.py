@@ -1,4 +1,8 @@
-# DRAWING STAR FRACTALS WITH TURTLE
+"""
+Project Name: STAR FRACTALS
+Concepts: turtle, variables, loops, functions
+Homework: experiment with the turtle library
+"""
 
 
 # REVIEW THE METHODS IN THE TURTLE DOCUMENTATION BEFORE AND AFTER EACH LESSON THAT INVOLVES TURTLE

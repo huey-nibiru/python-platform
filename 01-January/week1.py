@@ -1,4 +1,11 @@
-# DICE ROLLING
+"""
+Project Name: DICE ROLLING
+Concepts: random library, variables, loops, input, conditions
+Homework: make an if statement that ends the program if the dice are equal
+"""
+
+
+
 
 #importing module for random number generation
 import random

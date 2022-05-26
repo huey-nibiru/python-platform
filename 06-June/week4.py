@@ -1,20 +1,16 @@
 """
-Fidget Spinner
-
-Homework Challenges (choose 1 or more)
-1. Change the spinner pattern.
-2. Respond to mouse clicks.
-3. Change its acceleration.
-4. Make it go forwards and backwards.
+Project Name:  FIDGET SPINNER
+Concepts: turtle, functions
+Homework: Change the spinner speed (and direction if you can)
 """
+
 
 from turtle import *
 
 state = {'turn': 0}
 
-
-def spinner():
-    """Draw fidget spinner."""
+#Draw fidget spinner
+def draw_spinner():
     clear()
     angle = state['turn'] / 10
     right(angle)
@@ -34,16 +30,14 @@ def spinner():
 
 
 def animate():
-    """Animate fidget spinner."""
     if state['turn'] > 0:
         state['turn'] -= 1
 
-    spinner()
+    draw_spinner()
     ontimer(animate, 20)
 
 
 def flick():
-    """Flick fidget spinner."""
     state['turn'] += 10
 
 

@@ -1,12 +1,15 @@
 """
-TREE GARDENING GAME
+Project Name: TREE GARDENING GAME
+Concepts: lists, loops, methods
+Homework: make the time limit increase for each 3 rows completed
+"""
 
 
+"""
  spell a word correctly to plant a tree. 
  if you spell a word wrong, you lose
  if it takes you more than 3 seconds to type the word you lose
  plant as many trees as possible
- 
 """
 
 # allows us to use random numbers and random choice

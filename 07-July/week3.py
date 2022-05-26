@@ -1,14 +1,15 @@
-# ATHLETE GENERATOR
-
+"""
+Project Name: NFL PLAYER GENERATOR
+Concepts: lists, loops, tqdm lib
+Homework: add more names, positions, and teams
+"""
 import os
 import time
 import random
 from tqdm import tqdm
 
 names = ["mark jones", "james amer", "tim duff", "bill waters", "jaden remly"]
-
 positions = ["quarterback", "running back", "linebacker", "center","wide reciever", "tailback"]
-
 teams = ["chiefs", "patriots", "giants", "jets", "titans"]
 
 for i in tqdm(range(100)):

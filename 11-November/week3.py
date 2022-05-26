@@ -1,4 +1,9 @@
-# DRAWING A SMILEY FACE WITH TURTLE
+"""
+Project Name: SMILEY FACE
+Concepts: turtle, variables, methods
+Homework: make a frown face
+"""
+
 
 
 # REVIEW THE METHODS IN THE TURTLE DOCUMENTATION BEFORE AND AFTER EACH LESSON THAT INVOLVES TURTLE

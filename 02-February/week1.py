@@ -1,4 +1,8 @@
-# RESTAURANT 
+"""
+Project Name: RESTAURANT
+Concepts: variables, lists, functions, loops
+Homework: add more flavors to the menu
+"""
 
 # allows us to clear the screen
 import os
@@ -15,15 +19,13 @@ total = 0
 # create a list to hold the items bought 
 cart = []
 
-# create a dictionary to store the menu, add up to 20 items
+# create a dictionary that servse as a menu 
+# add items to the menu
 menu = { }
 menu["banana"] = 10
 menu["orange"] = 11
-menu["veggie"] = 9
-menu["vanilla"] = 17
-menu["mango"] = 7
-menu["apple"] = 3
-menu["raspberry"] = 5
+menu["apple"] = 9
+
 
 
 

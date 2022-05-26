@@ -1,40 +1,20 @@
-# IDENTITY GENERATOR
+"""
+Project Name: IDENTITY GENERATOR
+Concepts: variables, lists, functions, loops
+Homework: add more flavors to the menu
+"""
 
 import random
 import os
 import time
-import string
 from tqdm import tqdm
 
 
-# Before you begin, create the following files:
-# - firstnames.txt (add 5 fake first names to the file)
-# - lastnames.txt (add 5 fake last names to the file)
-# - jobs.txt (add 5 fake jobs to the file)
-# - addresses.txt (add 5 fake addresses to the file)
+jobs = ["baker", "doctor", "programmer", "artist"]
+fnames = ["john", "sarah", "jim", "amy"]
+lnames = ["davis", "roberts", "henry", "ross"]
+addresses = ["12 maple lane", "3 greene drive", "19 todd court"]
 
-
-
-jobs = []
-fnames = []
-lnames = []
-addresses = []
-
-
-
-# SCAN THE FILES TO IMPORT ALL VALUES TO THEIR LIST
-def scan_files(fileName, list):
-    with open(fileName, "r") as file:
-        for content in file:
-            content = content.strip("\n")
-            content = content.lower()
-            list.append(content)
-
-
-scan_files("firstnames.txt", fnames)
-scan_files("lastnames.txt", lnames)
-scan_files("jobs.txt", jobs)
-scan_files("addresses.txt", addresses)
 
 
 def generate_id(f,l,j,a):

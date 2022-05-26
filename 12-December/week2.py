@@ -1,4 +1,9 @@
-# HEALTHY VS UNHEALTHY
+"""
+Project Name: HEALTHY VS UNHEALTHY
+Concepts: dictionaries, loops, variables, file io
+Homework: add more healthy foods 
+"""
+
 
 
 # 1. create a dictionary of foods

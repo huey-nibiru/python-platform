@@ -1,4 +1,9 @@
-# NUMBER GUESSER
+"""
+Project Name:  NUMBER GUESSER
+Concepts: variables, loops, error handling
+Homework: make the program print a congrats message if the number is guessed in under 5 tries
+"""
+
 
 
 # allows us to use random numbers and random choice
@@ -16,8 +21,6 @@ randomNumber = random.randint(0, 100)
 # keep track of how many tries it will take us
 tries = 0
     
-
-
 # while loop will keep the program running [explain why the loop is needed]
 while True: 
     

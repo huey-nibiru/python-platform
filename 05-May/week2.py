@@ -1,5 +1,8 @@
-# RECIPE GENERATOR
-
+"""
+Project Name: RECIPE GENERATOR
+Concepts: lists, loops, random, functions conditions
+Homework: add more foods 
+"""
 
 from random import choice
 from os import system

@@ -1,5 +1,8 @@
-# FIREWORKS 
-
+"""
+Project Name:  FIREWORKS
+Concepts:  turtle, random lib, loops
+Homework: contain the code that draws the fireworks inside a function, then call the function in the loop instead
+"""
 import turtle
 import random
 
@@ -8,10 +11,9 @@ screen.bgcolor("black")
 
 t = turtle.Turtle()
 t.speed(1000)
-
-
-# BONUS: ADD STARS! -----------
 t.color("white")
+
+
 for i in range(20):
   x = random.randint(-250, 250)
   y = random.randint(-250,250)
@@ -24,7 +26,7 @@ for i in range(20):
     t.forward(size)
     t.backward(size)
     t.left(72)
-#--------------------------------
+
 
 for i in range(10):
   x = random.randint(-250, 250)

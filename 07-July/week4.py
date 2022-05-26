@@ -1,16 +1,13 @@
 """
-Flappy
-
-Homework Challenges (choose 1 or more)
-1. Keep score.
-2. Vary the speed.
-3. Vary the size of the balls.
-4. Allow the bird to move forward and back.
+Project Name:  FLAPPY DOT
+Concepts: game physics, turtle, functions
+Homework: Change the flappy speed
 """
+
+
 
 from random import *
 from turtle import *
-
 from freegames import vector
 
 bird = vector(0, 0)
@@ -45,9 +42,9 @@ def draw(alive):
 
     update()
 
-
+# Update object positions
 def move():
-    """Update object positions."""
+    
     bird.y -= 5
 
     for ball in balls:

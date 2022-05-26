@@ -1,5 +1,11 @@
-# Connect Four
-# Challenge --> Add logic to detect a full row *
+"""
+Project Name: CONNECT FOUR
+Concepts: turtle, functions, dictionaries, operators
+Homework: Add logic to detect a full row
+"""
+
+
+
 
 
 from turtle import *
@@ -26,6 +32,8 @@ def grid():
     update()
 
 
+
+# go slowly in this function 
 def tap(x, y):
     """Draw red or yellow circle in tapped row."""
     player = state['player']

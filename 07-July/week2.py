@@ -1,5 +1,8 @@
-# TYPING TEST
-
+"""
+Project Name: TYPING TEST
+Concepts: functions, operators, conditions time lib
+Homework: practice your typing
+"""
 import time
 import os
 

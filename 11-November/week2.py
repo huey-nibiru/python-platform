@@ -1,4 +1,9 @@
-# SPIRALS WITH TURTLE
+"""
+Project Name: SPIRALS
+Concepts: turtle, variables, loops, functions
+Homework: review the turtle library
+"""
+
 
 
 # REVIEW THE METHODS IN THE TURTLE DOCUMENTATION BEFORE AND AFTER EACH LESSON THAT INVOLVES TURTLE

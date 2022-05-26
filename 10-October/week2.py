@@ -1,11 +1,16 @@
-# USER PROFILE
+"""
+Project Name: SELF INTRO
+Concepts: lists, random lib
+Homework: add more foods
+"""
+
 
 
 # allows us to use random numbers and random choice
 import random
 
 # create a variable that holds information for a person. [review variables with class]
-name = "Yousef"
+name = "John"
 age = 25
 
 # use string concatenation to combine words with the values our variables have
@@ -16,7 +21,7 @@ print("I am " + str(age) + " years old")
 
 
 # create a list of favorite foods. Choose 3 - 10 foods
-favFoods = ["chicken", "chocolate", "Cheese burgers"]
+favFoods = ["chicken", "chocolate", "tacos"]
 
 # randomly select a food from the list of foods
 randomFood = random.choice(favFoods)

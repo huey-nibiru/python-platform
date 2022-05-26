@@ -1,5 +1,9 @@
-# HANGMAN
 
+"""
+Project Name: HANGMAN
+Concepts: random lib, variables, lists, functions, loops
+Homework: add more words to the program
+"""
 
 import random
 

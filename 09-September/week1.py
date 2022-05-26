@@ -1,4 +1,8 @@
-# VARIABLES, PRINT STATEMENTS & DATA TYPES
+"""
+Project Name: ICEBREAKER 
+Concepts: variables, data types, print statements
+Homework: add variables to the program 
+"""
 
 
 # programming is how we communicate
@@ -11,11 +15,11 @@ print("Hello world! this is my first day coding!")
 
 
 # variables are how we keep track of information
-game = "Roblox"
+fav_game = "Roblox"
 
 
 # we can print variables together with sentences using the plus operator or comma
-print("One of my fav games is" , game + ".")
+print("One of my fav games is" , fav_game + ".")
 
 
 # we can update variables

@@ -1,13 +1,15 @@
-# SUMMER VACACTION
-
+"""
+Project Name: SUMMER VACACTION
+Concepts: lists, loops, list formatting
+Homework: add more countries
+"""
 import os
 import time
 import random
 from tqdm import trange
 
 
-countries = ["mexico", "italy", "korea", "uganda",
-            "morocco", "spain", "russia", "colombia"]
+countries = ["mexico", "italy", "japan"]
 
 
 # print statements are to display info on the screen

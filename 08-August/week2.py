@@ -1,4 +1,8 @@
-# WEATHER API
+"""
+Project Name: WEATHER API 
+Concepts: dictionaries, loops, variables, API
+Homework: watch video on what an API is
+"""
 
 import urllib.request
 import json

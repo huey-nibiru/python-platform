@@ -1,4 +1,8 @@
-# BMI CALCULATOR
+"""
+Project Name: BMI CALCULATOR 
+Concepts: variables, operators, condtions
+Homework: allow user to enter height in inches, then convert to centimeters
+"""
 
 height = float(input("Enter your height in centimeters (cms) "))
 

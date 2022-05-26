@@ -1,4 +1,9 @@
-# DRAWING POLYGONS WITH TURTLE
+"""
+Project Name: POLYGONS
+Concepts: turtle, variables, loops, functions
+Homework: make the polygon change colors
+"""
+
 
 
 # REVIEW THE METHODS IN THE TURTLE DOCUMENTATION BEFORE AND AFTER EACH LESSON THAT INVOLVES TURTLE

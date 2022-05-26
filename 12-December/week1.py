@@ -1,8 +1,13 @@
-# INTRO TO FILE HANDLING 
+"""
+Project Name: FAVORITE GAMES 
+Concepts: file io, variables, loops
+Homework: edit the loop to only allow 10 games to be entered
+"""
+
 
 # import os to allow us to clear the screen
 import os
-
+# THIS IS AN INTRO TO FILE HANDLING 
 # file handling is how we create, read, update, and delete files
 # there are 3 modes to open files with
 # 1. ("w") - write to the file - (overwrite existing data)

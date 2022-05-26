@@ -1,5 +1,8 @@
-# FILE HANDLING & GAME DATA USING JSON
-
+"""
+Project Name:  FILE HANDLING
+Concepts: file io, conditions, json
+Homework: make a list of games and set the game variable to a random game in the list
+"""
 
 import os, time, json
 from os.path import exists

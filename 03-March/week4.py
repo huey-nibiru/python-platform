@@ -1,5 +1,8 @@
-# TIC TAC TOE
-
+"""
+Project Name: TIC TAC TOE 
+Concepts: time lib, os lib, random lib, lists, loops, functions
+Homework: add a computer opponent
+"""
 
 import os
 import random
@@ -31,6 +34,10 @@ show_board()
 
 
 
+
+
+
+# variables are similar. copy and paste to save time
 
 # CREATE THE SOLUTIONS
 def scan_solutions(p):

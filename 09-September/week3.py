@@ -1,5 +1,8 @@
-# LISTS AND DICTIONARIES
-
+"""
+Project Name:  PROGRAMMING LANGUAGES
+Concepts: lists, dictionaries, data structures
+Homework: watch a youtube video on what the different prog languages are used for
+"""
 
 # a list is a data structure that holds multiple
 # values of data that can be modified

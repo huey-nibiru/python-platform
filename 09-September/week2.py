@@ -1,3 +1,8 @@
+"""
+Project Name:  FRUIT BASKET
+Concepts: lists, methods, print statements
+Homework: add more fruit
+"""
 # LISTS AND LIST METHODS
 
 

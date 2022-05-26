@@ -1,4 +1,9 @@
-# AVERAGING NUMBERS
+"""
+Project Name: NUMBER AVERAGING
+Concepts: lists, loops, conditions
+Homework: make the program find the median number
+"""
+# 
 
 
 # create a list that will store the numbers that are being averaged

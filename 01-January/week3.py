@@ -1,4 +1,9 @@
-# MINECRAFT PLAYER
+
+"""
+Project Name: MINECRAFT PLAYER
+Concepts: os library, time library, dictionaries, lists, loops conditions, functions
+Homework: add more maps and tools 
+"""
 
 # allows us to clear the screen 
 import os
@@ -23,6 +28,9 @@ player["location"] = "overworld"
 maps = ["skyblock", "parkour school", "funland", "future city"]
 tools = ["sword", "compass", "fishing rod", "shovel"]
 
+
+
+# each function is similar. Copy paste to save time
 
 
 # show each world and change the player location

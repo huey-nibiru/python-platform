@@ -1,4 +1,9 @@
-# VIDEO GAME STORE
+"""
+Project Name: VIDEO GAME STORE
+Concepts: dictionaries, loops, variables, functions
+Homework: add more games to the menu
+"""
+
 
 
 # allows us to clear the screen 

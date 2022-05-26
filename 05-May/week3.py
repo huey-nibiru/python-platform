@@ -1,5 +1,8 @@
-# CARTOON CHARACTER INFO
-
+"""
+Project Name:  CARTOON CHARACTER PROFILE 
+Concepts: dictionaries, loops, variables
+Homework: add more cartoon characters
+"""
 
 # a dictionary holds info in keys and values
 # we can create categories for each character (name, show, species, home)

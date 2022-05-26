@@ -1,29 +1,20 @@
 """
-
-PONG
-
-HOMEWORK CHALLENGES (Choose at least one)
-1. Change the colors.
-2. Make it faster or slower (frame rate).
-3. Change the speed of the ball.
-4. Change the size of the paddles.
-5. Change how the ball bounces off walls.
-6. Add a computer player.
-6. Add a second ball.
-
+Project Name: PONG
+Concepts: turtle, variables, game physics
+Homework: Change the pong colors
 """
+
 
 from random import choice, random
 from turtle import *
-
 from freegames import vector
 
 
+# Randomly generate value between (-5, -3) or (3, 5)
 def value():
-    """Randomly generate value between (-5, -3) or (3, 5)."""
     return (3 + random() * 2) * choice([1, -1])
 
-
+#  Initialize vector with coordinates: x, y
 ball = vector(0, 0)
 aim = vector(value(), value())
 state = {1: 0, 2: 0}
