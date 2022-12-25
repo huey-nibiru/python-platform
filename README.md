@@ -2,7 +2,7 @@
 
 ## Preface
 
-- The goal of python platform is to give students the base concepts of computer programming in the python language
+- Base concepts of computer programming in the python language
 - Review the code and understand how the program works AT LEAST one day prior to your lesson.
 - DO NOT teach a class without looking over the code.
 - Homework MUST be included in the notes for each lesson.
